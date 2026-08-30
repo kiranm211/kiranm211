@@ -54,3 +54,4 @@ My current goal is to make consistent, useful contributions: reproducing bugs, i
 
 - Location: Osaka, Japan
 - GitHub: [@kiranm211](https://github.com/kiranm211)
+- Email: kiranm981999@gmail.com
