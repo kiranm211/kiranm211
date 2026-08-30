@@ -4,6 +4,10 @@ Full-stack engineer based in Osaka, Japan, building reliable web platforms, data
 
 I enjoy turning complex requirements into maintainable systems—from user-facing interfaces and APIs to databases, background workers, caching, and deployment workflows.
 
+<a href="https://www.buymeacoffee.com/kiranm211" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=kiranm211&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" />
+</a>
+
 ## What I work with
 
 - **Frontend:** TypeScript, React, Next.js, Tailwind CSS
