@@ -1,4 +1,5 @@
 # Hi, I'm Kiran 👋
+[![SadServers Level](https://img.shields.io/badge/SadServers-Master-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
 Full-stack engineer based in Osaka, Japan, building reliable web platforms, data-intensive applications, and developer tools.
 
